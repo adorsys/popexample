@@ -1,0 +1,9 @@
+/target/
+target
+.idea
+*.iml
+pom.xml.versionsBackup
+.classpath
+.project
+.settings/
+store/
